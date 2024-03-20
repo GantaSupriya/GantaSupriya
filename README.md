@@ -1,5 +1,15 @@
 ### Hi there 👋 I'm Supriya Ganta
 
+- -👨‍🎓 I’m currently pursuing my masters in Information systems and technology at University Of North Texas..
+- -🔭 Bachelors in Technology in: Amrita Vishwa Vidyapeetham, Coimbatore
+- - 🌱 I’m currently learning  AWS,SNOWFLAKE...
+- - 👯 I have been doing projects on: Machine Learning, Data Analysis.
+- 🤔 I’m looking for help with an Internship
+- 💬 Ask me about ... Projects
+- 📫 How to reach me: ... priyass0506@gmail.com
+
+-->
+
 <!--
 **GantaSupriya/GantaSupriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
