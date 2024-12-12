@@ -10,7 +10,7 @@
 
 -->
 ✨  Tech Stack
-👾 Python Java C C++
+👾   Python Java C C++
 
 🌐   HTML5 CSS JavaScript PHP MyAdmin
 
