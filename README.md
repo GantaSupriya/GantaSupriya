@@ -6,7 +6,7 @@
 ### Hi there 👋 I'm Supriya Ganta
 - -👨‍🎓 I’m currently pursuing my masters in Information systems and technology at University Of North Texas..
 - -🔭 Bachelors in Technology in: Amrita Vishwa Vidyapeetham, Coimbatore
-  -❤️ My favorite language: C, C++, Python
+- -❤️ My favorite language: C, C++, Python
 - - 🌱 I’m currently learning  AWS,SNOWFLAKE...
 - - 👯 I have been doing projects on: Machine Learning, Data Analysis,Data Visualization ,Tableau .
 - 🤔 I’m looking for help with an full time oppurtunities
