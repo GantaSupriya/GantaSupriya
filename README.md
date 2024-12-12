@@ -9,16 +9,34 @@
 - 📫 How to reach me: ... priyass0506@gmail.com
 
 -->
-✨  Tech Stack
-👾   Python Java C C++
+## ✨ Tech Stack
+### 🛠 Programming Languages
+![Python](https://img.shields.io/badge/-Python-blue?logo=python)
+![Java](https://img.shields.io/badge/-Java-orange?logo=java)
+![C](https://img.shields.io/badge/-C-blue?logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus)
 
-🌐   HTML5 CSS JavaScript PHP MyAdmin
+### 🌐 Frontend Development
+![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-green?logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php)
 
-⚙️   Git GitHub SQL MySql
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-orange?logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)
+![SQL](https://img.shields.io/badge/-SQL-blue?logo=mysql)
+![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazonaws)
 
-💻   Windows iOS Android AWS
+### 🖥 Operating Systems
+![Windows](https://img.shields.io/badge/-Windows-blue?logo=windows)
+![iOS](https://img.shields.io/badge/-iOS-white?logo=apple)
+![Android](https://img.shields.io/badge/-Android-green?logo=android)
 
-☁️   Cloud MCloud
+### ☁️ Cloud Platforms
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-red?logo=googlecloud)
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-blue?logo=microsoftazure)
+
 <!--
 **GantaSupriya/GantaSupriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
