@@ -43,8 +43,7 @@
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-red?logo=googlecloud)
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-blue?logo=microsoftazure)
 
-![github-header-image (2)](https://github.com/user-attachments/assets/c26ec5a1-070e-459d-83da-06861057adf6)
-
+![github-header-image (3)](https://github.com/user-attachments/assets/27ee37cf-a758-45d5-bd01-8d4f7e4cba93)
 
 <!--
 **GantaSupriya/GantaSupriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
