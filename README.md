@@ -7,7 +7,7 @@
 - -👨‍🎓 I have completed my masters in Information systems and technology at University Of North Texas..
 - -🔭 Bachelors in Technology in: Amrita Vishwa Vidyapeetham, Coimbatore
 - -❤️ My favorite language: C, C++, Python
-- - 🌱 I’m currently learning  AWS,SNOWFLAKE...
+- - 🌱 I’m currently learning  AWS,RAG...
 - - 👯 I have been doing projects on: Machine Learning, Data Analysis,Data Visualization ,Tableau .
 - 🤔 I’m looking for help with an full time oppurtunities
 - 💬 Ask me about ... Projects
