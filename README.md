@@ -9,7 +9,6 @@
 - -❤️ My favorite language: C, C++, Python
 - - 🌱 I’m currently learning  AWS,RAG...
 - - 👯 I have been doing projects on: Machine Learning, Data Analysis,Data Visualization ,Tableau .
-- 🤔 I’m looking for help with an full time oppurtunities
 - 💬 Ask me about ... Projects
 - 📫 How to reach me: ... priyass0506@gmail.com
 
