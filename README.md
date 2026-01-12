@@ -10,7 +10,7 @@
 - - 🌱 I’m currently learning  AWS,RAG...
 - - 👯 I have been doing projects on: Machine Learning, Data Analysis,Data Visualization ,Tableau .
 - 💬 Ask me about ... Projects
-- 📫 How to reach me: ... priyass0506@gmail.com
+- 📫 How to reach me: ... g.supriya5678@gmail.com
 
 
 -->
