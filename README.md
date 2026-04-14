@@ -7,10 +7,10 @@
 - -👨‍🎓 I have completed my masters in Information systems and technology at University Of North Texas..
 - -🔭 Bachelors in Technology in: Amrita Vishwa Vidyapeetham, Coimbatore
 - -❤️ My favorite language: C, C++, Python
-- - 🌱 I’m currently learning  AWS,RAG...
+- - 🌱 I’m currently working on LLm,RAG...
 - - 👯 I have been doing projects on: Machine Learning, Data Analysis,Data Visualization ,Tableau .
 - 💬 Ask me about ... Projects
-- 📫 How to reach me: ... g.supriya5678@gmail.com
+
 
 
 -->
